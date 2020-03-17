@@ -11,8 +11,8 @@ Cada pasta corresponde a um sketch diferente e cada sketche corresponde a um exe
 
 ## Exercícios propostos:
 Segue a lista constando o titulo (com link para o artigo) do exercícios e o nome do sketch (pasta) em que se encontra neste projeto, caso tenha:
-1. [Interligando três formas de interpretar o mundo](https://medium.com/@vaneskakaren15/matem%C3%A1tica-aplicada-%C3%A0-multim%C3%ADdia-interligando-tr%C3%AAs-formas-de-interpretar-o-mundo-dd24f319f673), exemplo_quadros_horizontais
-1. [Triturando uma foto]();
+1. [Interligando três formas de interpretar o mundo](http://bit.ly/mami_linguagens), exemplo_quadros_horizontais
+1. [Triturando uma foto](http://bit.ly/mami_triturando_foto);
 1. Não disponível;
 1. Não disponível;
 1. Não disponível;
