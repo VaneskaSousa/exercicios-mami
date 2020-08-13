@@ -10,7 +10,7 @@ Projeto dedicado os exercícios da cadeira de Matemática Aplicada a Multimídia
 Cada pasta corresponde a um sketch diferente e cada sketch corresponde a um exercícios diferente. Vale ressaltar que neste projeto não consta o trabalho final. 
 
 ## Exercícios propostos:
-Segue a lista constando dos exercicios:
+Segue a lista dos exercicios:
 
 |Aula | Artigo | Nome do projeto neste repositorio  | 
 |:-:|---|---|
