@@ -1,4 +1,4 @@
-# exercicios_MAMI
+# exercicios-mami
 Projeto dedicado os exercícios da cadeira de Matemática Aplicada a Multimídia
 
 ## Dados gerais:
