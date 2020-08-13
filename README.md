@@ -34,7 +34,7 @@ Segue a lista constando o titulo (com link para o artigo) do exercícios e o nom
 
 
 ## Trabalho final:
-Para o trabalho final foi refeito o jogo [Pancake (1981)](https://www.youtube.com/watch?v=jg4Qrv0wJRE&feature=youtu.be) e quando este for iniciado, o link para o repositorio se encontrará aqui.
+Para o trabalho final foi refeito o jogo [Breakout)](https://www.youtube.com/watch?v=Cr6z3AyhRr8) e quando este for iniciado, o link para o repositorio se encontrará aqui.
 
 ## Contato e outras mídias:
 * [Instagram](https://www.instagram.com/vaneska.sousa20/);
