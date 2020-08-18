@@ -7,7 +7,7 @@ Estando do ciente do que é esta unidade basica, podemos então observar o exerc
 
 Como bem observado, precisamos primeiro estar atentos as proporções. Ainda bem que o wikipidia nos fornece uma imagem bem simples que vai servir para nos orientar: 
 
-![](https://github.com/VaneskaSousa/exercicios-mami/blob/master/bandeiras-aula05/bandeira-suica/bandera-suica-ref.jpeg).  
+![](https://github.com/VaneskaSousa/exercicios-mami/blob/master/bandeiras_aula05/bandeira-suica/bandera-suica-ref.jpeg).  
 
 A partir da observação desta podemos seguir para a etapa mais importante: estabelecer as variávis e seus respectivos valores:
 
