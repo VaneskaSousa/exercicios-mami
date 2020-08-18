@@ -7,7 +7,7 @@ Junto a isso, fomos convidados a realizar a seguinte tarefa:
 Processing."
 
 E para nos basear nas proporções, temos a seguinte imagem:
-![]()
+![](https://github.com/VaneskaSousa/exercicios-mami/blob/master/bandeiras_aula06/bandeira_ref_japao.jpg)
 
 Podemos ver como deve ficar neste [vídeo](https://youtu.be/iYl-t2HzeM4).
 
