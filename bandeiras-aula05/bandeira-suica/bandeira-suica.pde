@@ -17,12 +17,12 @@ void setup(){
 }
 
 void draw(){  
-  //Quadrado de fundo branco
-  fill(#FFFFFF);
+  //Fundo de forma quadrangular como observado na imagem de referencia
+  fill(#FF0000);
   rect(0, 0, lado, lado);
   
-  //Cruz retangulo vertical
-  fill(#FF0000);
+  //Cruz vertical
+  fill(#FFFFFF);
   noStroke();
   rect(
   modSeis+modSete, 
@@ -30,8 +30,8 @@ void draw(){
   modSeis, 
   (modSete*2)+modSeis);
   
-  //Cruz retangulo horizontal (inversão do vertical)
-  fill(#FF0000);
+  //Cruz horizontal (inversão do vertical)
+  fill(#FFFFFF);
   noStroke();
   rect(
   modSeis, 
