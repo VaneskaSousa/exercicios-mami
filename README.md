@@ -19,6 +19,7 @@ Segue a lista dos exercicios:
 | Aula 02 | [The Nature of code, simulação e função](https://medium.com/@vaneskakaren15/the-nature-of-code-processing-procedimento-fun%C3%A7%C3%B5es-e-simula%C3%A7%C3%A3o-c06351f337b1) | funcao_linha | 
 | Aula 03 | [Movimento Retilíneo Uniforme](https://medium.com/@vaneskakaren15/movimento-retil%C3%ADneo-uniforme-modelo-computacional-4f26a52ae01c) | class_mru |   
 | Aula 04 | [Movimento Retilíneo Uniformente Variado](https://medium.com/@vaneskakaren15/simulando-mruv-mru-e-lan%C3%A7amento-obliquio-em-processing-java-b59a0911bb83?source=---------3------------------) | class_mruv |
+| Aula 05 | [Explicação no readme.md do projeto](https://github.com/VaneskaSousa/exercicios-mami/blob/master/bandeiras_aula05/README.md) | bandeiras_aula05 |
 
 > Alguns projetos possuem diversos exercicios(sketches) dentro deles.
 
