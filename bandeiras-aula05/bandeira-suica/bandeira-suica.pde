@@ -13,7 +13,7 @@ void settings(){
 
 void setup(){
   background(#000000);
-  println("Parametros:\n modulo = "+modulo+"\n area = "+lado+"\n unidade = "+unidade+"\n modSeis ="+modSeis+"\n modSete = "+modSete);
+  println("Parametros:\n modulo = "+modulo+"\n lado = "+lado+"\n unidade = "+unidade+"\n modSeis = "+modSeis+"\n modSete = "+modSete);
 }
 
 void draw(){  
