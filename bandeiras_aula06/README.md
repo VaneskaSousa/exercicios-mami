@@ -41,4 +41,9 @@ float bordaY = (height - altura)/2;
 * E aqui cabe uma obervação de que as bordas serão somadas no eixo x e y de cada forma geometrica, afim de aplicar o espaçamento:
 `rect(bordaX, bordaY, largura, altura);` e `ellipse(xCentro+bordaX, yCentro+bordaY, diametro, diametro);`
 
-Para entender melhor, confira o código completo!
+## Resultado Final:
+Então quando aplicamos, teremos o seguinte resultado:
+
+![](https://github.com/VaneskaSousa/exercicios-mami/blob/master/bandeiras_aula06/bandeira-japao.gif)
+
+Para entender melhor, confira o código completo :rocket:
