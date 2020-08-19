@@ -57,4 +57,6 @@ Para mim, este a segunda forma é mais facil. Sendo assim é só observar a imag
   (modSete*2)+modSeis, 
   modSeis);</pre>
 
-Não esqueça de rodar o código para ver como que ficou no final! :rocket:
+E se você rodar o código completo, poderá ver que este é o resultado final :rocket:
+
+![](https://github.com/VaneskaSousa/exercicios-mami/blob/master/bandeiras_aula05/bandeira-suica/bandeira-suica-final.jpg)
