@@ -3,7 +3,7 @@ Nesta aula aprendemos sobre funções tanto no modelo matemático como no comput
 
 >"discutir e justificar o uso de funções num modelo computacional que, empregando a instrução box() do Processing, demonstra graficamente que o cubo é o paralelepípedoque apresenta o melhor aproveitamento de volume em relação à área total de sua superfície". 
 
-Para isto foi necessário consultar algumas referências na documentação do ]processing](https://processing.org/):
+Para isto foi necessário consultar algumas referências na documentação do [processing](https://processing.org/):
  * [Key](https://processing.org/reference/key.html): Para identificar quando determinadas teclas são pressionadas;
  * [Key Pressed](https://processing.org/reference/keyPressed.html): Para entender melhor como se dá o evento de tecla pressionada;
  * [box()](https://processing.org/reference/box_.html): Para entender a função proposta na tarefa :smile:
