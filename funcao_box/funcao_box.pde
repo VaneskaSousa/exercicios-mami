@@ -10,14 +10,14 @@ void settings(){
 void setup(){
 }
 void draw (){
-  background(60);
+  background(#4B4949);
   if(inicializador){
     
     if((hAtual==xAtual) && (hAtual ==lAtual)&&(xAtual==lAtual)){
-      fill(0,255,0);
+      fill(#11EA41);
     }
     else{
-      fill(255);
+      fill(#B7B7B7);
     }
     
     text("Volume: " + hAtual*xAtual*lAtual, 50, 25);
@@ -39,7 +39,7 @@ void draw (){
   
 }
 void keyPressed() {
-  if (key == BACKSPACE && inicializador) {
+  if (key == CODED && inicializador) {
     if (keyCode == UP && xAtual>1) {
       hAtual++;
     }
