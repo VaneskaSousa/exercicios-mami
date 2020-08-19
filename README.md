@@ -20,7 +20,7 @@ Segue a lista dos exercicios:
 | Aula 03 | [Movimento Retilíneo Uniforme](https://medium.com/@vaneskakaren15/movimento-retil%C3%ADneo-uniforme-modelo-computacional-4f26a52ae01c) | class_mru |   
 | Aula 04 | [Movimento Retilíneo Uniformente Variado](https://medium.com/@vaneskakaren15/simulando-mruv-mru-e-lan%C3%A7amento-obliquio-em-processing-java-b59a0911bb83?source=---------3------------------) | class_mruv |
 | Aula 05 | [Criando bandeiras escalaveis](https://github.com/VaneskaSousa/exercicios-mami/blob/master/bandeiras_aula05/README.md) | bandeiras_aula05 |
-| Aula 08 | [Alternando largura e proporção da bandeira conforme a posição do mouse no eixo X](https://github.com/VaneskaSousa/exercicios-mami/blob/master/bandeiras_aula06/README.md) | bandeiras_aula06 |
+| Aula 06 | [Alternando largura e proporção da bandeira conforme a posição do mouse no eixo X](https://github.com/VaneskaSousa/exercicios-mami/blob/master/bandeiras_aula06/README.md) | bandeiras_aula06 |
 
 > Alguns projetos possuem diversos exercicios(sketches) dentro deles.
 
