@@ -11,7 +11,7 @@ Como bem observado, precisamos primeiro estar atentos as proporções. Ainda bem
 
 A partir da observação desta podemos seguir para a etapa mais importante: estabelecer as variávis e seus respectivos valores:
 
-## Variávis:
+## Variáveis:
 
 * Modulo: Como valor padrão para o modulo, resolvi deixar como 100px, conforme vimos no exercício da aula. O importante mesmo é você compreender como o módulo é a menor figura geometrica que compõe nossa bandeira. Neste caso será dois tipos de quadrados, e ambos serão originados apartir deste modulo. 
 * lado: Aqui vamos observar que cada lado do nosso quadrado é composto por 5 quadrados menores, ou seja, 5 modulos. Isto porque a primeira forma geometrica a ser construida é este quadrado de fundo e todas as outras formas irão vir com base nela. Por isso vamos multiplar 5 pelo módulo. Sendo assim, cada lado é formado 5modulos, independente de qual seja o valor deste.
