@@ -1,17 +1,13 @@
+int circulo = 50;
+
 void settings(){
   size(200, 200);
-
 }
-
-void setup(){ //<>//
-  background(0); //
+void setup(){
+  background(20);
 }
 
 void draw(){
-  quadrado();
-}
-
-void quadrado(){ //<>//
-  fill(255); //<>//
-  rect(75, 75, 50, 50); //<>//
+  fill(100);
+  ellipse(100, 100, circulo, circulo);
 }
