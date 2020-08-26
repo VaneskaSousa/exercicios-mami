@@ -23,11 +23,12 @@ Segue a lista dos exercicios:
 | Aula 04 | [Movimento Retilíneo Uniformente Variado](https://medium.com/@vaneskakaren15/simulando-mruv-mru-e-lan%C3%A7amento-obliquio-em-processing-java-b59a0911bb83?source=---------3------------------) | class_mruv |
 | Aula 05 | [Criando bandeiras escalaveis](https://github.com/VaneskaSousa/exercicios-mami/blob/master/bandeiras_aula05/README.md) | bandeiras_aula05 |
 | Aula 06 | [Alternando largura e proporção da bandeira conforme a posição do mouse no eixo X](https://github.com/VaneskaSousa/exercicios-mami/blob/master/bandeiras_aula06/README.md) | bandeiras_aula06 |
+| Aula 07 | [Criando o A de Braun (Não contém artigo ou doc, mas o código está devidamente comentado)](https://github.com/VaneskaSousa/exercicios-mami/tree/master/marcas) | marcas |
 
 > Alguns projetos possuem diversos exercicios(sketches) dentro deles.
 
 ## Trabalho final:
-Para o trabalho final foi refeito o jogo [Breakout)](https://www.youtube.com/watch?v=Cr6z3AyhRr8) e quando este for iniciado, o link para o repositorio se encontrará aqui.
+Para o trabalho final foi refeito o jogo [Breakout](https://www.youtube.com/watch?v=Cr6z3AyhRr8) e quando este for iniciado, o link para o repositorio se encontrará aqui.
 
 ## Contato e outras mídias:
 * [Instagram](https://www.instagram.com/vaneska.sousa20/);
