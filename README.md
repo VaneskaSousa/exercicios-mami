@@ -31,7 +31,8 @@ Segue a lista dos exercicios:
 > Alguns projetos possuem diversos exercicios(sketches) dentro deles.
 
 ## Trabalho final:
-Para o trabalho final foi refeito o jogo [Breakout](https://www.youtube.com/watch?v=Cr6z3AyhRr8) e quando este for iniciado, o link para o repositorio se encontrará aqui.
+Para o trabalho final está sendo desenvolvido o rameke do jogo [Breakout](https://www.youtube.com/watch?v=Cr6z3AyhRr8) e devido o tamanho do projeto, decidi reservar um 
+repositorio para ele, o [breakout-tc](https://github.com/VaneskaSousa/breakout-tc) :smiley:
 
 ## Contato e outras mídias:
 * [Instagram](https://www.instagram.com/vaneska.sousa20/);
