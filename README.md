@@ -25,6 +25,8 @@ Segue a lista dos exercicios:
 | Aula 06 | [Alternando largura e proporção da bandeira conforme a posição do mouse no eixo X](https://github.com/VaneskaSousa/exercicios-mami/blob/master/bandeiras_aula06/README.md) | bandeiras_aula06 |
 | Aula 07 | [Criando o A de Braun (Não contém artigo ou doc, mas o código está devidamente comentado)](https://github.com/VaneskaSousa/exercicios-mami/tree/master/marcas) | marcas |
 | Aula 09 | Interação e animação (com introdução a colisão) através do jogo Pong (parte 01) | pong1 |
+| Aula 11 | [Montando um mapa de rpg usando tilesets](https://github.com/VaneskaSousa/exercicios-mami/blob/master/tileset01/README.md) | tileset01 |
+| Aula 13 | Máquinas de Estados Finito (MEF) e Interação | MEF |
 
 > Alguns projetos possuem diversos exercicios(sketches) dentro deles.
 
