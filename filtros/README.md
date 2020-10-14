@@ -9,7 +9,8 @@ Esse aqui foi o mais simples de implementar. Bastou uma pesquisa rápida na docu
 
 Com isso, bastou adaptar ao código usado em aula (de leitura de matriz e de uso do RGB e de `color()`).
 
-No final, ficou da seguinte maneira: 
+No final, ficou da seguinte maneira:
+
 ![](https://i.imgur.com/EKqxaMB.jpg)
 
 E o código:
@@ -48,7 +49,8 @@ Com isso bastou adaptar a função anterior e modificar os comendos de se a cor 
           imgNova.set(x, y, 0);
         }</pre>
 
-No final, ficou da seguinte maneira: 
+No final, ficou da seguinte maneira:
+
 ![](https://i.imgur.com/cD2TcNw.jpeg)
 
 > Foi corrido mas fim de semestre é osso :smiley:
