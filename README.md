@@ -27,6 +27,7 @@ Segue a lista dos exercicios:
 | Aula 09 | Interação e animação (com introdução a colisão) através do jogo Pong (parte 01) | pong1 |
 | Aula 11 | [Montando um mapa de rpg usando tilesets](https://github.com/VaneskaSousa/exercicios-mami/blob/master/tileset01/README.md) | tileset01 |
 | Aula 13 | Máquinas de Estados Finito (MEF) e Interação | MEF |
+| Aula 17 | [Filtros](https://github.com/VaneskaSousa/exercicios-mami/blob/master/filtros/README.md) | filtros |
 
 > Alguns projetos possuem diversos exercicios(sketches) dentro deles.
 
